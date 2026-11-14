@@ -1,0 +1,4 @@
+method,level_c,grid_area_estimate,grid_margin_violations
+Quadratic (DARE),1.841746570551882,3.3164000000000002,0
+Quadratic (Optimized P),2.035516775695406,6.402,0
+Neural (Initial),4.039670104980469,3.9268,0

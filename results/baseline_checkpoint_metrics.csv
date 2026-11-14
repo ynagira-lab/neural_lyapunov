@@ -1,0 +1,2 @@
+step,grid,x_range,alpha,grid_area,level_c,violations_inside,total_grid_violations,quadratic_optimized_area
+60,201,2.0,0.05,7.0036000000000005,4.062973308563232,0,3590,6.402
